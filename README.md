@@ -51,9 +51,9 @@
 <a href="https://www.kaggle.com/harmainali">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="https://Harmain-Ali.github.io/">
+<!-- <a href="https://Harmain-Ali.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
-</a>
+</a> -->
 <!-- <a href="https://www.facebook.com/originalphreak">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a> -->
