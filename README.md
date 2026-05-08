@@ -5,7 +5,7 @@
   <em>Hi, I'm Harmain!</em>
 </h1>
 
-<em>I am a 2nd year undergraduate student from <a href="https://lahore.comsats.edu.pk/default.aspx"><b> Comsats University</b></a>. From the beginning of my college life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">is enough knowledge**. 🧠</em>
+<em>I am a 3rd year undergraduate student from <a href="https://lahore.comsats.edu.pk/default.aspx"><b> Comsats University</b></a>. From the beginning of my college life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">is enough knowledge**. 🧠</em>
 </br>
 
 <h2>💻 My Tech Stack</h2>
